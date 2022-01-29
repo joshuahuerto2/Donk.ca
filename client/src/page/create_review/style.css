@@ -1,0 +1,11 @@
+/* .profileCard{
+    width: 60%;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+.center{
+    align-items: center;
+}
